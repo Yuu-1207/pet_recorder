@@ -76,7 +76,6 @@ class _MyHomePageState extends State<MyHomePage> {
   
   //データベースからペットのデータを取得
   void getPetData(int petNumber) {
-    print('getpetdata');
     final docRef = db
         .collection('user')
         .doc(email)
