@@ -14,7 +14,7 @@ class PostPage extends StatefulWidget {
 class _PostPageState extends State<PostPage> {
   // 入力した投稿メッセージ
   String messageText = '';
-  DateFormat outputFormat = DateFormat('yyyy/MM/dd H:m');
+  DateFormat outputFormat = DateFormat('yyyy/MM/dd HH:mm');
   String petName =
       petInfoArguments?.petName != null ? petInfoArguments.petName : '';
 
