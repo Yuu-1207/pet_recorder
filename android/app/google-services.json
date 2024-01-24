@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261444940819",
+    "project_id": "pet-recorder",
+    "storage_bucket": "pet-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261444940819:android:9e138dc6158126676c3be6",
+        "android_client_info": {
+          "package_name": "com.example.pet_recorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUeO1wXRrobhUmHUXqfOTqv9cI9em0L1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
